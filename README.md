@@ -43,4 +43,4 @@ O Vital Sport conecta pessoas com produtos e serviços que incentivam um **estil
 - Inspiração diária para **hábitos saudáveis e vida equilibrada** 🌱  
 
 
-## Projeto ainda está em andamento, portanto ainda precisa ser validados.
+🚨 Projeto ainda está em andamento, portanto ainda precisa ser validados.
