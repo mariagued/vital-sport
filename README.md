@@ -17,8 +17,8 @@ O Vital Sport conecta pessoas com produtos e serviços que incentivam um **estil
 **Nome:** Daniel Minoru  
 **Idade:** 24 anos  
 **Profissão:** Analista de TI  
-**Renda:** R$ 4.200,00  
-**Estilo de vida:** Academia 3x por semana, corrida de rua e busca constante por qualidade de vida 🏃‍♂️💚  
+**Renda:** R$ 1.715,77 (ou seja, um salário comercial)  
+**Estilo de vida:** Academia 3x por semana, corrida de rua e buscando constante por qualidade de vida 🏃‍♂️💚  
 
 **Necessidades:**  
 - Ter **vantagens financeiras** em produtos que já consome (suplementos, roupas esportivas) 💰  
@@ -43,4 +43,4 @@ O Vital Sport conecta pessoas com produtos e serviços que incentivam um **estil
 - Inspiração diária para **hábitos saudáveis e vida equilibrada** 🌱  
 
 
-🚨 Projeto ainda está em andamento, portanto ainda precisa ser validados.
+🚨 Projeto ainda está em andamento, portanto ainda precisa ser validado.
