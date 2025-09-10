@@ -2,6 +2,7 @@
 
 🚨 Projeto ainda está em andamento, portanto ainda há pontos que precisam ser validados.
 
+--- 
 
 **Vital Sport** é um projeto que promove **saúde, bem-estar e qualidade de vida** através de produtos e serviços para atletas e pessoas ativas. Nosso foco é oferecer **alimentos, suplementos, roupas e acessórios esportivos** que ajudam você a manter o corpo em movimento e a viver com energia. ⚡💪
 
