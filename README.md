@@ -4,6 +4,9 @@
 
 "Somos a marca que pensa no futuro, investe em tecnologia monitorando tendências transparentes e alinhadas às novas demandas por sustentabilidade, personalização e bem-estar."
 
+---
+🚨 Projeto ainda está em andamento, portanto ainda há pontos que precisam ser validados.
+
 
 ## Descrição do Projeto
 O Vital Sport conecta pessoas com produtos e serviços que incentivam um **estilo de vida ativo**. Nosso objetivo é apoiar atletas e entusiastas da saúde, proporcionando **vantagens financeiras, qualidade e confiança**, tudo pensado para quem quer cuidar do corpo e do bolso ao mesmo tempo. 🥗🏋️‍♂️
@@ -44,7 +47,5 @@ Você, atleta pode participar comprando produtos nas lojas, mercados participant
 - Incentivos financeiros para **clientes ativos** 🏅  
 - Inspiração diária para **hábitos saudáveis e vida equilibrada** 🌱  
 
----
 
 
-🚨 Projeto ainda está em andamento, portanto ainda há pontos que precisam ser validados.
