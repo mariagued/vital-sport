@@ -4,7 +4,7 @@
 
 --- 
 
-**Vital Sport** é um projeto que promove **saúde, bem-estar e qualidade de vida** através de produtos e serviços para atletas e pessoas ativas. Nosso foco é oferecer **alimentos, suplementos, roupas e acessórios esportivos** que ajudam você a manter o corpo em movimento e a viver com energia. ⚡💪
+**Vital Sport** é um projeto que promove **saúde, bem-estar e qualidade de vida** através de produtos e serviços para atletas e pessoas ativas. Com isso o foco é oferecer **alimentos, suplementos, roupas e acessórios esportivos** que ajudam você a manter o corpo em movimento e a viver com energia. ⚡💪
 
 "Somos a marca que pensa no futuro, investe em tecnologia monitorando tendências transparentes e alinhadas às novas demandas por sustentabilidade, personalização e bem-estar."
 
