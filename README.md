@@ -21,14 +21,14 @@ Você, atleta pode participar comprando produtos nas lojas, mercados participant
 - Famílias que investem em **saúde preventiva** e produtos de qualidade
   
 ## 👤 Persona do Cliente
-**Nome:** Daniel Minoru  
+**Nome:** Daniel   
 **Idade:** 24 anos
 **Profissão:** Analista de TI  
 **Renda:** R$ 1.715,77 (ou seja, um salário comercial)  
-**Estilo de vida:** Academia 3x por semana, corrida de rua e buscando constante por qualidade de vida 🏃‍♂️💚  
+**Estilo de vida:** Academia 3x por semana, corrida de rua e busca constante por qualidade de vida 🏃‍♂️💚  
 
 **Necessidades:**  
-- Ter **vantagens financeiras** em produtos que já consome (suplementos, roupas esportivas) 💰  
+- Ter **vantagens financeiras** em produtos que já consome (suplementos, comidas mais saudaveis e roupas esportivas) 💰  
 - Economizar no longo prazo enquanto investe na saúde 🏋️‍♂️  
 - Encontrar fornecedores confiáveis com **descontos especiais** 🛒  
 
