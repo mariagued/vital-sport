@@ -20,27 +20,10 @@ Você, atleta pode participar comprando produtos nas lojas, mercados participant
 - Jovens que praticam esportes (corrida, academia, ciclismo, esportes coletivos)  
 - Famílias que investem em **saúde preventiva** e produtos de qualidade
   
-## 👤 Persona do Cliente
-**Nome:** Daniel   
-**Idade:** 24 anos
-**Profissão:** Analista de TI  
-**Renda:** R$ 1.715,77 (ou seja, um salário comercial)  
-**Estilo de vida:** Academia 3x por semana, corrida de rua e busca constante por qualidade de vida 🏃‍♂️💚  
-
-**Necessidades:**  
-- Ter **vantagens financeiras** em produtos que já consome (suplementos, comidas mais saudaveis e roupas esportivas) 💰  
-- Economizar no longo prazo enquanto investe na saúde 🏋️‍♂️  
-- Encontrar fornecedores confiáveis com **descontos especiais** 🛒  
-
-**Dores:**  
-- Preços altos de suplementos e equipamentos esportivos 💸  
-- Poucas opções de **incentivo financeiro** para quem se cuida 😕  
-- Bancos tradicionais não oferecem **benefícios voltados ao bem-estar** 🏦  
-
-**Objetivos:**  
-- Melhorar a **qualidade de vida gastando menos** ✨  
-- Economizar para **viagens e competições de corrida** 🌍🏃‍♂️  
-- Ter **benefícios extras** por meio da cooperativa, valorizando a parceria 🤝  
+## 👤 Segmento de Mercado
+**Adultos Ativos (18+):** Pessoas que buscam ativamente saúde, bem-estar e qualidade de vida em sua rotina.
+**Jovens Atletas:** Praticantes de esportes específicos (corrida, academia, ciclismo, esportes coletivos).
+**Famílias:** Grupo de pessoas que investem em saúde preventiva e valorizam produtos de alta qualidade para o bem-estar de todos.
 
 ## 💡 Diferenciais do Projeto
 - Produtos selecionados com foco em **saúde e performance** 💪  
