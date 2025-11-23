@@ -14,13 +14,8 @@ O Vital Sport conecta pessoas com produtos e serviços que incentivam um **estil
 
 ## 🥇🏆 Participação
 Você, atleta pode participar comprando produtos nas lojas, mercados participantes e trocar os pontos coletados por crédito no seu saldo do Cooperatica de Crédito Cresol.
-
-## 🎯 Público-Alvo
-- Adultos, acima de 18 anos que buscam **saúde e qualidade de vida**  
-- Jovens que praticam esportes (corrida, academia, ciclismo, esportes coletivos)  
-- Famílias que investem em **saúde preventiva** e produtos de qualidade
   
-## 👤 Segmento de Mercado
+## 👤 Persona
 - **Adultos Ativos (18+):** Pessoas que buscam ativamente saúde, bem-estar e qualidade de vida em sua rotina.
 - **Jovens Atletas:** Praticantes de esportes específicos (corrida, academia, ciclismo, esportes coletivos).
 - **Famílias:** Grupo de pessoas que investem em saúde preventiva e valorizam produtos de alta qualidade para o bem-estar de todos.
